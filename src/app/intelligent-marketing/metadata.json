@@ -1,0 +1,17 @@
+{
+  "title": "Intelligent Marketing - Platforma",
+  "description": "Combine data-driven insights with intelligent automation to create marketing that actually works. Our approach focuses on measurable results, not vanity metrics.",
+  "openGraph": {
+    "title": "Intelligent Marketing - Platforma",
+    "description": "Combine data-driven insights with intelligent automation to create marketing that actually works.",
+    "url": "https://platforma.rs/intelligent-marketing",
+    "siteName": "Platforma - Product and Engineering Innovation",
+    "type": "website"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "site": "@platforma_ai",
+    "creator": "@platforma_ai"
+  }
+}
+

@@ -8,42 +8,47 @@ export default function Page() {
     <Main>
       <Section>
         <Inset format>
-          <h2>About</h2>
+          <h2>About Us</h2>
           <p>
-          Platforma Agency was founded by tech veterans{' '}
+          Founded by tech veterans{' '}
           <TextLink href="https://darioristic.com" title="Dario Ristić" external /> and{' '}
           <TextLink href="https://ivandudas.com" title="Ivan Dudaš" external />{' '}
-          and grew from a decade of hands-on product development experience. As leaders 
-          with deep technical and business expertise, we design and deliver transformative
-          digital solutions that help ambitious startups and companies scale. Our work f
-          ocuses on mission-critical products that consistently create measurable value
-          and strong ROI.
+          in 1999 during the early dot-com era, our platform has evolved from a bold idea 
+          into a hub of digital innovation. Today, as serial entrepreneurs with deep technical 
+          and business expertise, we design and deliver digital solutions that empower ambitious 
+          startups and established companies to create products people genuinely love to use. 
+          Our work blends product and platform innovation with intelligent marketing to generate 
+          measurable impact and sustainable ROI.
           </p>
 
-          <h2>Service</h2>
-          <p className="!mb-8">
-          We’re a small, multidisciplinary team of digital product experts passionate 
-          about amplifying the capabilities of today’s most innovative companies.
-          </p>
-          <p className="!mb-8">
-          Over the past two decades, we’ve partnered with startups, entrepreneurs, 
-          venture capital firms, and established enterprises to drive digital 
-          transformation and build market-ready products from the ground up. 
-
-          Our end-to-end services span digital strategy, product design, development, e-commerce, marketing automation, and brand experience optimization.
-          </p>
+          <h2>We Believe</h2>
           <p>
-          We specialize in SaaS platforms, technology startups, cloud and media services, 
-          and e-commerce ecosystems. Through design thinking and agile methodologies, 
-          we prioritize understanding your customers, building authentic relationships, 
-          and driving human-centered growth.
+          The future will be defined by intelligent, dynamic interactions between technology 
+          and people—where every experience feels intuitive, personal, and naturally 
+          conversational. This next era of digital engagement will anticipate user needs 
+          before they're expressed, creating seamless, meaningful connections that feel 
+          almost human.
+          </p>
+
+          <h2>Services</h2>
+          <p>
+          We provide end-to-end services spanning{' '}
+          <TextLink href="/digital-strategy" title="digital strategy" />,{' '}
+          <TextLink href="/product-design-development" title="product design - development" />,{' '}
+          <TextLink href="/infrastructure-implementation" title="infrastructure implementation" />, automation,{' '}
+          <TextLink href="/intelligent-marketing" title="intelligent marketing" />, and brand experience 
+          optimization. AI is embedded across every stage of the product, marketing, and operations 
+          lifecycle—enabling adaptive personalization and intelligent experiences that guide users, 
+          recommend products, and resolve issues in real time. We specialize in SaaS platforms, 
+          technology startups, cloud and media ecosystems, and other high-growth digital ventures. 
+  
           </p>
 
           <h2>Connect</h2>
           <p>
             Find us on{' '}
             <TextLink href="https://x.com/Platforma_AI" title="X" external />,
-            feel free to send a dm.
+            feel free to send a dm or drop us an email.
           </p>
         </Inset>
       </Section>

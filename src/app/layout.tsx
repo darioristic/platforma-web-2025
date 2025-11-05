@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     images: [
       {
         url: 'https://platforma.rs/og.jpg',
-        alt: '© dario_ristic',
+        alt: '© Platforma',
       },
     ],
   },

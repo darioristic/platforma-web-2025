@@ -1,9 +1,12 @@
 {
-  "title": "Workspace",
+  "title": "Workspace - Platforma",
   "description": "Platforma's home workspace.",
   "openGraph": {
-    "title": "Workspace",
+    "title": "Workspace - Platforma",
     "description": "Platforma's home workspace.",
+    "url": "https://platforma.rs/workspace",
+    "siteName": "Platforma - Product and Engineering Innovation",
+    "type": "website",
     "images": [
       {
         "url": "https://platforma.rs/images/workspace/workspace-og.jpg",
@@ -12,6 +15,9 @@
     ]
   },
   "twitter": {
+    "card": "summary_large_image",
+    "site": "@platforma_ai",
+    "creator": "@platforma_ai",
     "images": [
       {
         "url": "https://platforma.rs/images/workspace/workspace-og.jpg",
