@@ -1,0 +1,22 @@
+{
+  "title": "Workspace",
+  "description": "Logan Liffick's home workspace.",
+  "openGraph": {
+    "title": "Workspace",
+    "description": "Logan Liffick's home workspace.",
+    "images": [
+      {
+        "url": "https://loganliffick.com/images/workspace/workspace-og.jpg",
+        "alt": "© logan_liffick"
+      }
+    ]
+  },
+  "twitter": {
+    "images": [
+      {
+        "url": "https://loganliffick.com/images/workspace/workspace-og.jpg",
+        "alt": "© logan_liffick"
+      }
+    ]
+  }
+}
