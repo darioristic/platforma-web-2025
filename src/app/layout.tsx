@@ -1,9 +1,9 @@
-import { Footer } from '@/components/Footer'
-import { Nav } from '@/components/Nav'
+import { Analytics } from "@vercel/analytics/next"
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+import { Footer } from '@/components/Footer'
+import { Nav } from '@/components/Nav'
 import './globals.css'
-import { Analytics } from '@vercel/analytics/next'
 
 const inter = Inter({
   variable: '--font-inter',
@@ -11,15 +11,15 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Product & platform innovation',
+  title: 'Platforma - Product and Engineering Innovation',
   description:
     'Platforma Digital Agency is a design and engineering agency building brands, systems, and products.',
   openGraph: {
-    title: 'Platforma Digital Agency',
+    title: 'Platforma - Product and Engineering Innovation',
     description:
       'Platforma Digital Agency is a design and engineering agency building brands, systems, and products.',
     url: 'https://platforma.rs',
-    siteName: 'Platforma Digital Agency',
+    siteName: 'Platforma - Product and Engineering Innovation',
     images: [
       {
         url: 'https://loganliffick.com/og.jpg',
@@ -30,12 +30,12 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    site: '@logan_liffick',
-    creator: '@logan_liffick',
+    site: '@platforma_ai',
+    creator: '@platforma_ai',
     images: [
       {
         url: 'https://loganliffick.com/og.jpg',
-        alt: '© logan_liffick',
+        alt: '© dario_ristic',
       },
     ],
   },
