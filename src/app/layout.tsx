@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     siteName: 'Platforma - Product and Engineering Innovation',
     images: [
       {
-        url: 'https://loganliffick.com/og.jpg',
-        alt: '© logan_liffick',
+        url: 'https://platforma.rs/og.jpg',
+        alt: '© Platforma',
       },
     ],
     type: 'website',
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     creator: '@platforma_ai',
     images: [
       {
-        url: 'https://loganliffick.com/og.jpg',
+        url: 'https://platforma.rs/og.jpg',
         alt: '© dario_ristic',
       },
     ],

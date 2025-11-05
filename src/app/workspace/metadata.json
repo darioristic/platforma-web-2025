@@ -1,21 +1,21 @@
 {
   "title": "Workspace",
-  "description": "Logan Liffick's home workspace.",
+  "description": "Platforma's home workspace.",
   "openGraph": {
     "title": "Workspace",
-    "description": "Logan Liffick's home workspace.",
+    "description": "Platforma's home workspace.",
     "images": [
       {
-        "url": "https://loganliffick.com/images/workspace/workspace-og.jpg",
-        "alt": "© logan_liffick"
+        "url": "https://platforma.rs/images/workspace/workspace-og.jpg",
+        "alt": "© Platforma"
       }
     ]
   },
   "twitter": {
     "images": [
       {
-        "url": "https://loganliffick.com/images/workspace/workspace-og.jpg",
-        "alt": "© logan_liffick"
+        "url": "https://platforma.rs/images/workspace/workspace-og.jpg",
+        "alt": "© Platforma"
       }
     ]
   }
